@@ -1,0 +1,58 @@
+Project         : txt.cs
+Release version : 1.6.43
+Last update     : 2018-10-03
+------------- ---- ------
+file            : cs_12.txt
+
+     ) _     _
+    ( (^)-~-(^)
+__,-.\_( 6 6 )__,-.___
+  'M'   \   /   'M'
+DMA      <o>
+
+12. ( ͡❛ ͜ʖ ͡❛)
+
+                .-~~~~~~~~~-._       _.-~~~~~~~~~-.
+            __.'              ~.   .~              `.__
+          .'//                  \./                  \\`.
+        .'//                     |                     \\`.
+      .'// .-~"""""""~~~~-._     |     _,-~~~~"""""""~-. \\`.
+    .'//.-"                 `-.  |  .-'                 "-.\\`.
+  .'//______.============-..   \ | /   ..-============.______\\`.
+.'______________________________\|/______________________________`.
+
+12.1. ( ͡❛ ͜ʖ ͡❛)
+
+                               _
+         .::::::::::.        -(_)====u         .::::::::::.
+       .::::''''''::::.                      .::::''''''::::.
+     .:::'          `::::....          ....::::'          `:::.
+    .::'             `:::::::|        |:::::::'             `::.
+   .::|               |::::::|_ ___ __|::::::|               |::.
+   `--'               |::::::|_()__()_|::::::|               `--'
+    :::               |::-o::|        |::o-::|               :::
+    `::.             .|::::::|        |::::::|.             .::'
+     `:::.          .::\-----'        `-----/::.          .:::'
+       `::::......::::'                      `::::......::::'
+         `::::::::::'                          `::::::::::'
+
+12.9. Level 12
+
+     ( ͡❛ ͜ʖ ͡❛) 12 уровень по CS.
+
+------------- ---- ------
+
+Copyright (C) 1990-2018 Free Software DavydovMA
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
